@@ -1,0 +1,14 @@
+---
+:id: 96649199
+:submitters:
+- :name: Paige Johnson
+  :email: pajohnson@davidson.edu
+- :name: Bryce Anthony
+  :email: branthony@davidson.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-10-28 02:57:37.994704000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-10-27 19:57:37.994704000 Z
+:status: processed
+:score: 30.0
